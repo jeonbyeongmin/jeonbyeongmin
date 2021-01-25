@@ -23,6 +23,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
+<br>
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -39,6 +41,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🖥 &nbsp; Photoshop
 
 
+<br>
 
 
 
