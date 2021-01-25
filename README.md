@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 
-<h3> 👨🏻 About Me </h3>
+<h3> 👨🏻 &nbsp; About Me </h3>
 
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam National Unversity :kr:
@@ -20,7 +20,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 &nbsp; Tech Stack</h3>
 
 
 - 💻 &nbsp; Java | C++ | C 
@@ -38,7 +38,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 &nbsp; To Learn</h3>
 
 - 🔧 &nbsp; React | Android | Swift
 
