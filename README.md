@@ -10,7 +10,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 👨🏻 &nbsp; About Me </h3>
 
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam National Unversity :kr:
+- 🎓 &nbsp; Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
 
 - ✍️ &nbsp; I'm interested in Web / App development. 
 
