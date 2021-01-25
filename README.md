@@ -48,17 +48,20 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
-<br/><br/>
+<br>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
-<br><br>
+<br>
 
 
 
 <hr>
 
+<br>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
+
+<br>
