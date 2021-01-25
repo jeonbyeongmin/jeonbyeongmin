@@ -7,20 +7,14 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 
-
-
-
 <h3> 👨🏻 About Me </h3>
 
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam National Unversity :kr:
 
-- 🌱 &nbsp; Writing code, solving problems, and building software.
+- ✍️ &nbsp; I'm interested in Web / App development.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🤔 &nbsp; I'm interested in coming up with ideas and realizing them.
 
 
 <br>
@@ -46,7 +40,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; React | Android | Swift
 
 <hr>
 
