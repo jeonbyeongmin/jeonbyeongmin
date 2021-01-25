@@ -42,6 +42,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔧 &nbsp; React | Android | Swift
 
+<br>
+
 <hr>
 
 
