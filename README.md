@@ -25,7 +25,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 💻 &nbsp; Java | C++ | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 
 <!--- 🛢 &nbsp; MySQL | MongoDB -->
 
