@@ -1,4 +1,4 @@
-### Hi there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### I'm Byeongmin Jeon  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
@@ -27,7 +27,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <h3>🛠 Tech Stack</h3>
-
 
 
 - 💻 &nbsp; Java | C++ | C 
@@ -64,5 +63,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <hr>
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
