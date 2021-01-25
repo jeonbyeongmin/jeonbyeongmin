@@ -62,7 +62,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 
-<h3>💻 &nbsp; Algorithm</h3>
+<h3>💻 &nbsp; I'm studying algorithm </h3>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
 
