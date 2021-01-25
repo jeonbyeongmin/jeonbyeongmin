@@ -1,13 +1,10 @@
 ### Hi there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 
-I'm a computer science student who is 
+I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
 
-- 📫 How to reach me: [Gmail](mailto:qudals7613@gmail.com)
-
-
-<hr>
+<br>
 
 
 
