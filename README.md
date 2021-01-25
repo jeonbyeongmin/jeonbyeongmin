@@ -12,9 +12,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chungnam National Unversity :kr:
 
-- ✍️ &nbsp; I'm interested in Web / App development.
+- ✍️ &nbsp; I'm interested in Web / App development. 
 
-- 🤔 &nbsp; I'm interested in coming up with ideas and realizing them.
+- 🤔 &nbsp; It's fun to come up with ideas and realizing them.
 
 
 <br>
