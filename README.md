@@ -33,15 +33,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🖥 &nbsp; Photoshop
 
-
-<br>
-
-
-
-<h3>🛠 &nbsp; To Learn</h3>
-
-- 🔧 &nbsp; React | Android | Swift
-
 <br>
 
 <hr>
