@@ -5,11 +5,8 @@
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
 - 🔭 I’m currently a CS student at Chungnam National Unversity.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Gmail](mailto:qudals7613@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
