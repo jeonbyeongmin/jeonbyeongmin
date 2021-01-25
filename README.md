@@ -9,7 +9,6 @@ I'm a computer science student who is
 
 <hr>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
 
 
 
@@ -66,13 +65,4 @@ I'm a computer science student who is
 
 <hr>
 
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-<hr>
-
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
