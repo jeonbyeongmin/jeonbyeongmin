@@ -1,6 +1,5 @@
 ### Hi there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
