@@ -10,7 +10,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 
 
