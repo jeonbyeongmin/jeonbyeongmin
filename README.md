@@ -41,9 +41,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3>💻 &nbsp; My most used languages </h3>
 
+<img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300" align='right'>
+
 <br>
 
-<img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
@@ -56,9 +57,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 <h3>✍️ &nbsp; I'm studying algorithm </h3>
-<br>
+
 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" align='right'>
+<br>
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
 
