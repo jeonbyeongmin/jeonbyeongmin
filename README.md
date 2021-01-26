@@ -16,9 +16,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🤔 &nbsp; It's fun to come up with ideas and realizing them.
 
 
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" align='right'>
+
 <br>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" align='right'>
 
 <h3>🛠 &nbsp; Tech Stack</h3>
 
