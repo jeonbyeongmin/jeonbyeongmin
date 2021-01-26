@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <h3> 👨🏻 &nbsp; About Me </h3>
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" align='right'>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" align='right'>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
 
