@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <h3> 👨🏻 &nbsp; About Me </h3>
-
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" align='right'>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
 
@@ -43,7 +43,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <img src="https://media.giphy.com/media/eHmcJyxe0QFWdGTmgH/giphy.gif" width="300" align='right'>
 <br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
