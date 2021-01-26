@@ -41,9 +41,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3>💻 &nbsp; My most used languages </h3>
 
+<img src="https://media.giphy.com/media/eHmcJyxe0QFWdGTmgH/giphy.gif" width="300" align='right'>
 <br>
 
-<img src="https://media.giphy.com/media/eHmcJyxe0QFWdGTmgH/giphy.gif" width="300" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
