@@ -43,7 +43,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 
-<img src="https://media.giphy.com/media/eHmcJyxe0QFWdGTmgH/giphy.gif" width="350" align='right'>
+<img src="https://media.giphy.com/media/eHmcJyxe0QFWdGTmgH/giphy.gif" width="300" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
