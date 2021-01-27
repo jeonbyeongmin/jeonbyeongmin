@@ -40,7 +40,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3>💻 &nbsp; My most used languages </h3>
 
-<img src="https://media.giphy.com/media/MZuwCBkh03ypYbhXWR/giphy.gif" width="300" align='right'>
+<img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300" align='right'>
 
 <br>
 
@@ -58,7 +58,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3>✍️ &nbsp; I'm studying algorithm </h3>
 
 
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300" align='right'>
+<img src="https://media.giphy.com/media/MZuwCBkh03ypYbhXWR/giphy.gif" width="300" align='right'>
 <br>
 
 
