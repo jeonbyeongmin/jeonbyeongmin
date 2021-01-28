@@ -9,11 +9,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3> 👨🏻 &nbsp; About Me </h3>
 
--  &nbsp; Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
+- Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
 
--  &nbsp; I'm interested in Web / App development. 
+- I'm interested in Web / App development. 
 
--  &nbsp; It's fun to come up with ideas and realizing them.
+- It's fun to come up with ideas and realizing them.
 
 
 <br>
@@ -22,15 +22,15 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 
--  &nbsp; Java | C++ | C 
+- Java | C++ | C 
 
--  &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- HTML | CSS | JavaScript | Bootstrap | PHP
 
 <!--- 🛢 &nbsp; MySQL | MongoDB -->
 
--  &nbsp; Git | Markdown
+- Git | Markdown
 
--  &nbsp; Photoshop
+- Photoshop
 
 <br>
 
