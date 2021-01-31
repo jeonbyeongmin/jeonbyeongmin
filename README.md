@@ -45,7 +45,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 
-<center> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)</center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
 
 <br>
 
@@ -58,7 +58,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3>✍️ &nbsp; I'm studying algorithm </h3>
 
 <br>
-
-<center> ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)</center>
+<a href="https://github-readme-solvedac.hyp3rflow.vercel.app/api/">
+  <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613" />
+</a>
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
 
 <br>
