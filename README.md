@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=Byeongmin's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Byeongmin's%20Github&fontSize=40)
 
 # 전병민입니다.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
