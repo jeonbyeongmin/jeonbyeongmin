@@ -4,7 +4,7 @@
 <br>
 
 <div align=center>
-  <h3>🛠 &nbsp; Tech Stack</h3>
+  <h3>Tech Stack</h3>
 
 
   Java | C++ | C 
