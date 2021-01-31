@@ -9,17 +9,13 @@
 
 - <b>충남대학교</b> 컴퓨터융합학부에 재학 중 입니다.
 
-- 웹 / 앱에 관심이 많습니다.
+- 웹 / 앱에 관심이 있습니다.
 
 - 아이디어 구상하는 것을 즐깁니다.
 
 
 <br>
 
-  <div align=right>
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
-  </div>
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 
@@ -34,10 +30,9 @@
 - Photoshop
 
 <br>
-
 <br>
 
-  <div align=right>
+  <div align=center>
   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
   </div>
