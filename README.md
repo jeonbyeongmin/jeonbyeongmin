@@ -59,10 +59,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 
-<a href="https://github-readme-solvedac.hyp3rflow.vercel.app/api/">
-  <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613" />
-</a>
-
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
 
 <br>
