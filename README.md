@@ -1,20 +1,24 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=I'm%20Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
 
 <br>
 
-<h3>🛠 &nbsp; Tech Stack</h3>
+<div align=center>
+  <h3>🛠 &nbsp; Tech Stack</h3>
 
 
-- Java | C++ | C 
+  Java | C++ | C 
 
-- HTML | CSS | JavaScript | Bootstrap | PHP
+  HTML | CSS | JavaScript | Bootstrap | PHP
 
-<!--- 🛢 &nbsp; MySQL | MongoDB -->
+  <!--- 🛢 &nbsp; MySQL | MongoDB -->
 
-- Git | Markdown
+  Git | Markdown
 
-- Photoshop
+  Photoshop
+<div>
+  
+
 
 <br>
 <br>
