@@ -57,11 +57,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <h3>✍️ &nbsp; I'm studying algorithm </h3>
 
-
-<img src="https://media.giphy.com/media/MZuwCBkh03ypYbhXWR/giphy.gif" width="300" align='right'>
-<br>
-
-
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
 
 <br>
