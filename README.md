@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Byeongmin%20Jeon&fontSize=40)
 
-# 전병민입니다.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### I'm Byeongmin Jeon  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 <br>
 
@@ -11,7 +11,7 @@
 
 - 웹 / 앱에 관심이 많습니다.
 
-- 아이디어 구상한 것을 즐깁니다.
+- 아이디어 구상하는 것을 즐깁니다.
 
 
 <br>
