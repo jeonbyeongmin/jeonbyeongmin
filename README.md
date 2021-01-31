@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
 
 <br>
 
@@ -29,4 +29,4 @@
   </div>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
