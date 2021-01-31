@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
-
-### I'm Byeongmin Jeon  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+![header](https://capsule-render.vercel.app/api?type=wave&color=&height=300&section=header&text=I'm%20Byeongmin%20Jeon&fontSize=40&fontColor=FFFFFF)
 
 <br>
 
