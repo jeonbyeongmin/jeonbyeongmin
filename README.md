@@ -1,22 +1,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Byeongmin's%20Github&fontSize=40)
 
-### I'm Byeongmin Jeon  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
-
-
-I'm a computer science student who is passionate about writing code, solving problems, and building software.
-
-
-<br>
+### 전병민입니다.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 
 <h3> 👨🏻 &nbsp; About Me </h3>
 
-- Studying Computer Science and Engineering at <b>Chungnam National Unversity</b> :kr:
+- <b>충남대학교</b> 컴퓨터융합학부에 재학 중 입니다.
 
-- I'm interested in Web / App development. 
+- 웹 / 앱에 관심이 많습니다.
 
-- It's fun to come up with ideas and realizing them.
+- 아이디어 구상한 것을 즐깁니다.
 
 
 <br>
@@ -41,7 +35,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 
-<h3>💻 &nbsp; My most used languages </h3>
 
 <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300" align='right'>
 
@@ -58,9 +51,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <br>
 
-<h3>✍️ &nbsp; I'm studying algorithm </h3>
-
-<br>
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
 
