@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Byeongmin's%20Github&fontSize=40)
 
-### 전병민입니다.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+# 전병민입니다.  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
+<br>
 
 <h3> 👨🏻 &nbsp; About Me </h3>
 
