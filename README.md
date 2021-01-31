@@ -62,6 +62,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudals7613)](https://solved.ac/qudals7613)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
 
 <br>
