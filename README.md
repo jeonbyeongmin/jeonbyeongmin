@@ -16,7 +16,10 @@
 
 <br>
 
-
+  <div align=right>
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
+  </div>
 <h3>🛠 &nbsp; Tech Stack</h3>
 
 
@@ -32,23 +35,13 @@
 
 <br>
 
-<hr>
-
 <br>
 
+  <div align=right>
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
+  </div>
 
-<img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="300" align='right'>
-
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonbyeongmin&show_icons=true)
-
-<br>
-
-
-
-<hr>
 
 <br>
 
