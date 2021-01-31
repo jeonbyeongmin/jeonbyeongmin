@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
+
 ### I'm Byeongmin Jeon  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 
@@ -65,3 +68,5 @@ I'm a computer science student who is passionate about writing code, solving pro
   [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
   </div>
 <br>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
