@@ -7,9 +7,13 @@
   
   <h3>Tech Stack</h3>
 
-  Java | C++ | C 
+  Java | C | C++ 
 
-  HTML | CSS | JavaScript | Bootstrap | PHP
+  HTML | CSS | JavaScript
+  
+  Bootstrap | React(Newbie)
+  
+  PHP
 
   <!--- 🛢 &nbsp; MySQL | MongoDB -->
 
