@@ -7,28 +7,21 @@
   
   <h3>Tech Stack</h3>
 
-  Java | C | C++ 
+  Java | C | C++ | Python
 
   HTML | CSS | JavaScript
   
   Bootstrap | React(Newbie)
   
   PHP
-
-  <!--- 🛢 &nbsp; MySQL | MongoDB -->
+  
+  Oracle
 
   Git | Markdown
 
   Photoshop
-
-  <br>
-  <br>
-  <br>
-  <br>
-
   
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qudals7613)
-
+  
   <br>
   <br>
 
