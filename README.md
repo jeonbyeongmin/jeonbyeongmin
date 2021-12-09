@@ -32,7 +32,7 @@
   
   <br/>
   
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=black">
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   
   <br/>
