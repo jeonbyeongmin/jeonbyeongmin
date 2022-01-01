@@ -1,7 +1,5 @@
 
 <br/>
-  
-# 🛠  Tech Stack
 
 <div align=center>
 
@@ -35,9 +33,6 @@
   <br/>
   
 </div>
-
-
-# ✍🏻 I'm studying
 
 <div align=center>
   
