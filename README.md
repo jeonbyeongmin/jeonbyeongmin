@@ -22,15 +22,7 @@
   
   <br/>
   <br/>
-  
-  ### Tools
-  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
-  <br/>
-  <br/>
-  <br/>
+
   
 </div>
 
